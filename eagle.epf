@@ -353,6 +353,11 @@ UsedLibrary="/home/jsvirzi/eagle/libraries/stm32f4.lbr"
 UsedLibrary="/home/jsvirzi/eagle/libraries/STM32F4-DISCOVERY.lbr"
 UsedLibrary="/home/jsvirzi/eagle/libraries/dan.lbr"
 UsedLibrary="/home/jsvirzi/eagle/libraries/Eagle-Library/Eagle-Library.lbr"
+UsedLibrary="/home/jsvirzi/eagle/libraries/ftdichip-6.lbr"
+UsedLibrary="/home/jsvirzi/eagle/libraries/SparkFun-Eagle-Libraries/SparkFun-PowerSymbols.lbr"
+UsedLibrary="/home/jsvirzi/eagle/libraries/SparkFun-Eagle-Libraries/SparkFun-Capacitors.lbr"
+UsedLibrary="/home/jsvirzi/eagle/libraries/SparkFun-Eagle-Libraries/SparkFun-Coils.lbr"
+UsedLibrary="/home/jsvirzi/eagle/libraries/SparkFun-Eagle-Libraries/SparkFun-Connectors.lbr"
 
 [Win_1]
 Type="Control Panel"
@@ -362,11 +367,11 @@ Number=0
 
 [Win_2]
 Type="Schematic Editor"
-Loc="1985 24 3585 955"
+Loc="2035 120 3635 1051"
 State=2
 Number=1
 File="ethernet_usb.sch"
-View="34.683 -5.80416 143.728 103.241"
+View="-744.65 242.521 -546.071 365.934"
 WireWidths=" 0 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064 0.1524"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
@@ -405,7 +410,7 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
-Views=" 1: 34.683 -5.80416 143.728 103.241"
+Views=" 1: -744.65 242.521 -546.071 365.934"
 Sheet="1"
 
 [Desktop]
