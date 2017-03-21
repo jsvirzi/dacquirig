@@ -957,6 +957,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="JP1" gate="A" pin="5"/>
 <wire x1="-2.54" y1="76.2" x2="15.24" y2="76.2" width="0.1524" layer="91"/>
 <label x="0" y="53.34" size="1.778" layer="95"/>
+<wire x1="-2.54" y1="53.34" x2="-2.54" y2="7.62" width="0.1524" layer="91"/>
+<junction x="-2.54" y="53.34"/>
+<wire x1="-2.54" y1="7.62" x2="17.78" y2="7.62" width="0.1524" layer="91"/>
+<label x="17.78" y="7.62" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="ETH_TXN" class="0">
@@ -967,6 +971,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="JP1" gate="A" pin="6"/>
 <wire x1="-5.08" y1="73.66" x2="15.24" y2="73.66" width="0.1524" layer="91"/>
 <label x="0" y="50.8" size="1.778" layer="95"/>
+<wire x1="-5.08" y1="50.8" x2="-5.08" y2="5.08" width="0.1524" layer="91"/>
+<junction x="-5.08" y="50.8"/>
+<wire x1="-5.08" y1="5.08" x2="17.78" y2="5.08" width="0.1524" layer="91"/>
+<label x="17.78" y="5.08" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="ETH_RXP" class="0">
@@ -977,6 +985,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="JP1" gate="A" pin="7"/>
 <wire x1="-7.62" y1="71.12" x2="15.24" y2="71.12" width="0.1524" layer="91"/>
 <label x="0" y="48.26" size="1.778" layer="95"/>
+<wire x1="-7.62" y1="48.26" x2="-7.62" y2="2.54" width="0.1524" layer="91"/>
+<junction x="-7.62" y="48.26"/>
+<wire x1="-7.62" y1="2.54" x2="17.78" y2="2.54" width="0.1524" layer="91"/>
+<label x="17.78" y="2.54" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="ETH_RXN" class="0">
@@ -987,6 +999,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="JP1" gate="A" pin="8"/>
 <wire x1="-10.16" y1="68.58" x2="15.24" y2="68.58" width="0.1524" layer="91"/>
 <label x="0" y="40.64" size="1.778" layer="95"/>
+<wire x1="-10.16" y1="40.64" x2="-10.16" y2="0" width="0.1524" layer="91"/>
+<junction x="-10.16" y="40.64"/>
+<wire x1="-10.16" y1="0" x2="17.78" y2="0" width="0.1524" layer="91"/>
+<label x="17.78" y="0" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="LIDAR_PPS" class="0">
