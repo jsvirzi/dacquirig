@@ -1,5 +1,5 @@
 [Eagle]
-Version="08 00 02"
+Version="08 01 00"
 Platform="Linux"
 Globals="Globals"
 Desktop="Desktop"
@@ -358,6 +358,7 @@ UsedLibrary="/home/jsvirzi/eagle/libraries/SparkFun-Eagle-Libraries/SparkFun-Pow
 UsedLibrary="/home/jsvirzi/eagle/libraries/SparkFun-Eagle-Libraries/SparkFun-Capacitors.lbr"
 UsedLibrary="/home/jsvirzi/eagle/libraries/SparkFun-Eagle-Libraries/SparkFun-Coils.lbr"
 UsedLibrary="/home/jsvirzi/eagle/libraries/SparkFun-Eagle-Libraries/SparkFun-Connectors.lbr"
+UsedLibrary="/home/jsvirzi/eagle/libraries/SparkFun-Eagle-Libraries/SparkFun-Resistors.lbr"
 
 [Win_1]
 Type="Control Panel"
@@ -371,7 +372,7 @@ Loc="2035 120 3635 1051"
 State=2
 Number=1
 File="ethernet_usb.sch"
-View="-744.65 242.521 -546.071 365.934"
+View="-599.488 415.394 -503.723 474.911"
 WireWidths=" 0 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064 0.1524"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
@@ -410,7 +411,7 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
-Views=" 1: -744.65 242.521 -546.071 365.934"
+Views=" 1: -599.488 415.394 -503.723 474.911"
 Sheet="1"
 
 [Desktop]
